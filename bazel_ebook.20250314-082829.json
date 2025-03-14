@@ -1,0 +1,19 @@
+{
+    "build_file": null,
+    "build_targets": [
+        "@bazel_ebook//..."
+    ],
+    "compatibility_level": "0",
+    "deps": [],
+    "module_dot_bazel": "../bazel-ebook/MODULE.bazel",
+    "name": "bazel_ebook",
+    "patch_strip": 0,
+    "patches": [],
+    "presubmit_yml": null,
+    "strip_prefix": "bazel-ebook-0.0.1",
+    "test_module_build_targets": [],
+    "test_module_path": null,
+    "test_module_test_targets": [],
+    "url": "https://github.com/filmil/bazel-ebook/archive/refs/tags/v0.0.1.zip",
+    "version": "0.0.1"
+}
