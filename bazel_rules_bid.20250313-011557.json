@@ -10,10 +10,10 @@
     "patch_strip": 0,
     "patches": [],
     "presubmit_yml": null,
-    "strip_prefix": "bazel-rules-bid-0.2.0",
+    "strip_prefix": "bazel-rules-bid-0.2.1",
     "test_module_build_targets": [],
     "test_module_path": null,
     "test_module_test_targets": [],
-    "url": "https://github.com/filmil/bazel-rules-bid/archive/refs/tags/v0.2.0.zip",
-    "version": "0.2.0"
+    "url": "https://github.com/filmil/bazel-rules-bid/archive/refs/tags/v0.2.1.zip",
+    "version": "0.2.1"
 }
