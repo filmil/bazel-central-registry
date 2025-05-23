@@ -1,0 +1,5 @@
+module(
+    name = "bazel_ebook",
+    version = "0.0.4",
+    compatibility_level = 0,
+)
