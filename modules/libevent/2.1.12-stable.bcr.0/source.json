@@ -4,7 +4,7 @@
     "patch_strip": 0,
     "integrity": "sha256-kubeG+nsF2Qo/SNnZ35hzv/C7hyxGQNQN6J9NGsEA7s=",
     "overlay": {
-        "BUILD.bazel": "sha256-cYdJMIuYrCnKYJtKc6cX9K7DgpkMlSWcCLt1r4A/jDE=",
+        "BUILD.bazel": "sha256-Ifs/FrAhOJaTQ2GcMQ26MwrIKjOzNW2lUHfGRccrKIM=",
         "MODULE.bazel": "sha256-xJ5by1IMmwe8wXMJ/IZ60dBPj854MKL3y5dCUWRTqmI=",
         "WIN32-Code/BUILD.bazel": "sha256-7UbnkQwzRqS0Ie6T1yg3lvgPtUwmPhjLUk3AGSylnuE=",
         "compat/BUILD.bazel": "sha256-B70QeKdbM1SqJ137dCT+aax6DYq1Ed0tJW3kdD0oVAI=",
