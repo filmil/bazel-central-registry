@@ -1,0 +1,9 @@
+{
+    "integrity": "sha256-Q7tKHoNM/8RlaokYEgAyL9UylH7n0t+0O/XnOTJ8g0U=",
+    "strip_prefix": "",
+    "url": "https://github.com/filmil/bazel-wasm-demo/releases/download/v0.1.0/bazel-wasm-demo-v0.1.0.zip",
+    "patches": {
+        "module_dot_bazel_version.patch": "sha256-ItikqMmfCiV9PFQ+xLcn7DmTOHQP6HK34StTSxyRqU0="
+    },
+    "patch_strip": 1
+}
